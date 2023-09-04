@@ -76,5 +76,8 @@ echo -e   "Need to talk ?"
 echo -e    "Whatsapp +4593755005"               
 echo -e    "Telegram @cyberkrimsus / IG @zxlin.joysolutions${POLOS}"                                                                    
 echo -e    "${TEBAL}${MERAH}Johnny Lin / JoySolutions @ BatamHacker${POLOS}"
+echo
+echo
+echo
 echo -e  " ${TEBAL}${HIJAU}YOUR PACKAGES IS INSTALLED SUCCESSFULLY${POLOS} "
 exit
