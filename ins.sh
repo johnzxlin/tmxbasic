@@ -54,9 +54,10 @@ apt install macchanger -y
 echo -e 
 echo -e 
 echo -e  ${TEBAL}${HIJAU}
-read -t 5 -p "Tools installing Nano, Tar, Zip, Unzip, Tor"
+read -t 5 -p "Tools installing Nano, Tar, Zip, Unzip, Tor and VIM"
 echo -e   ${POLOS}
 apt install nano -y
+apt install vim -y
 apt install tar -y
 apt install zip -y
 apt install unzip -y
