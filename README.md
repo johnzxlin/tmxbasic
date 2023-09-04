@@ -1,2 +1,3 @@
 # tmxbasic
-TERMUX BASIC INSTALLING SHELL SCRIPT
+
+Simple script to install termux basic package
